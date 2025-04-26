@@ -40,4 +40,8 @@ def move_mikan_download_files(source_path: str, target_name: str):
 
 
 if __name__ == '__main__':
-    move_mikan_download_files('/Users/weihc/Downloads/Mikan', '不幸职业【鉴定士】实则最强')
+    # move_mikan_download_files('/Users/weihc/Downloads/Mikan', '最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～')
+    # move_mikan_download_files('/Users/weihc/Downloads/Mikan', '迟早是最强的炼金术师？')
+    # move_mikan_download_files('/Users/weihc/Downloads/Mikan', '中年男的异世界网购生活')
+    # move_mikan_download_files('/Users/weihc/Downloads/Mikan', '魔农传记')
+    move_mikan_download_files('/Users/weihc/Downloads/Mikan', '合租房的秘密规则。')
